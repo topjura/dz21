@@ -1,0 +1,14 @@
+.all{
+    width: 400px;
+    height: 600px;
+    border-radius: 50px;
+    background-color: gray;
+}
+.card{
+    background-color: black;
+     width: 400px;
+     height: 200px;
+        border-radius: 50px;
+        margin-left: 100px;
+        
+}
